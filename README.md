@@ -9,5 +9,4 @@ This GitHub repository contains the scripts used during Jose Maria Casanova Mast
 #funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research;
 #and by the McDonnell Center for Systems Neuroscience at Washington University.
 #
-# The scripts were provided by Fabiano Baroni and edited and launched by Jose Maria Casanova.
-#
+#The scripts were provided by Fabiano Baroni and edited and launched by Jose Maria Casanova.
