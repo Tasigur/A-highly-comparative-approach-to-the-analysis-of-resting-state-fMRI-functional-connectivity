@@ -8,6 +8,7 @@ Data were provided by the Human Connectome Project, WU-Minn Consortium (Principa
 #
 # Scripts
 -script_distribute_xFC_erg.m :creates every possible combination of measure, then it calls multi_range_qsub in order to create the .m files and the jobs that will be launched with the cluster.
+
 -script_distribute_xFC_missing_subjects.m : creates every possible combination of measure, then it calls multi_range_qsub in order to create the .m files and the jobs that will be launched with the cluster but just the missing subjects.
 
 The scripts were provided by Fabiano Baroni and edited and launched by Jose Maria Casanova.
